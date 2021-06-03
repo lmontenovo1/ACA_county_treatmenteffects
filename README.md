@@ -9,7 +9,7 @@ geofips: FIPS county.
 StateFIPS: FIPS state.
 countyname: county name.
 state_abbrev: state name, abbreviated.
-state_name state name.
+state_name: state name.
 TE_eligib_lin: time-invariant forecast of federal transfer to that county triggered by the ACA, obtained from running a linear model.
 TE_eligib_quadratic: time-invariant forecast of federal transfer to that county triggered by the ACA, obtained from running a quadratic model.
 TE_eligib_ls: time-invariant forecast of federal transfer to that county triggered by the ACA, obtained from running a linear spline model.
