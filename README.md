@@ -1,7 +1,7 @@
 # ACA_county_treatmenteffects
 In this repository, we include the data file with county-level treatment effects for the project "Federal Transfers to Local Areas: The Case of Medicaid Expansion under the Affordable Care Act." By treatment effects, we mean our forecast of federal transfers to each of the U.S. counties as a result of the ACA. 
 
-We include four variables for the forecasted county-level federal transfer. Each was obtained using a different model specification: linear, quadratic, spline, and quantile (details in the paper).
+We include four variables for the forecasted county-level federal transfer. Each was obtained using a different model specification: linear, quadratic, spline, and quantile (details in the paper). These are all per capita measures, and time invariant.
 
 The variables included in the datasets are:
 
