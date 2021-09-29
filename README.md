@@ -7,7 +7,8 @@ The variables included in the datasets are:
 
 geofips: FIPS county.
 StateFIPS: FIPS state.
-countyname: county name.
+countyname: county name.: newly eligible individuals share
+eligibles_rate_2010: newly eligible individuals share
 state_abbrev: state name, abbreviated.
 state_name: state name.
 TE_eligib_lin: time-invariant forecast of federal transfer to that county triggered by the ACA, obtained from running a linear model.
